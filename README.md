@@ -1,5 +1,5 @@
 # FlatPic
-FlatPic is a responsive, flat-design and user-friendly image gallery made with PHP5 HTML5 CSS3, JavaScript and love.
+FlatPic is a responsive, flat-design and user-friendly image gallery made with PHP, HTML5, CSS3, JavaScript and love.
 
 You can see an early build used for production at http://swissrods.ch/galerie/
 
