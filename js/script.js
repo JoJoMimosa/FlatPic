@@ -1,4 +1,4 @@
-// SRIPTS.JS
+// SCRIPTS.JS
 
 // Fades in thumbnails when they are loaded
 function displayThumb(el) {
