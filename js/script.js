@@ -31,7 +31,7 @@ function createGallery() {
 	// The var limit represents the limit number of images that will be displayed
 	// If there are fewer pictures to display than the limit, it is set to that number
 	var limit = 24;
-	if(img_array.length < 24) {
+	if(img_array.length < limit) {
 		limit = img_array.length;
 	}
 
